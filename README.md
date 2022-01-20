@@ -1,4 +1,7 @@
 # Zappar for ThreeJS Example
+
+> :warning: **This example uses a `beta` version of Instant World Tracking:** Please be mindful when using this in live projects
+
 ​
 This repository contains an AR example using the Zappar SDK for ThreeJS. This specific example uses `webpack` to compile and bundle the assets and code, and TypeScript to get full auto-complete and compile-time error checking.
 ​
